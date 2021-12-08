@@ -3,5 +3,5 @@ I mainly write in python but I also do JS, C#, RobotC, and Java decently. I have
 ### Contact:
 Email: drakeerv@outlook.com, Discord: (Coming Soon)
 ## Statistics:
-[![drakeerv's GitHub stats](https://github-readme-stats.vercel.app/api?username=drakeerv&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![drakeerv's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drakeerv&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![drakeerv's GitHub stats](https://github-readme-stats.vercel.app/api?username=drakeerv&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
