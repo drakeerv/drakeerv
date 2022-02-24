@@ -5,7 +5,9 @@ I mainly write in python but I also do JS, C#, RobotC, and Java decently. I have
 ### Contact:
 Email: drakeerv@outlook.com, Discord: drakeerv#7275
 ### Profile:
-![drakeerv;s Visitor Count](https://komarev.com/ghpvc/?username=drakeerv)
+<div>
+  ![drakeerv's Visitor Count](https://komarev.com/ghpvc/?username=drakeerv)
+</div>
 ## Statistics:
 <div align="center">
   <img height="190px" align="center" style="float:center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakeerv&show_icons=true&theme=onedark&layout=compact">
