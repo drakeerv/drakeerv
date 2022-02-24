@@ -9,7 +9,7 @@ Email: drakeerv@outlook.com, Discord: drakeerv#7275
 ## Statistics:
 <div align="center">
   <img width="50%" align="center" style="float:left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakeerv&show_icons=true&theme=onedark&layout=compact">
-  <img width="500%" align="center" style="float:left" src="https://github-readme-stats.vercel.app/api?username=drakeerv&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats">
+  <img width="50%" align="center" style="float:left" src="https://github-readme-stats.vercel.app/api?username=drakeerv&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
