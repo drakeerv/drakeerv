@@ -8,8 +8,8 @@ Email: drakeerv@outlook.com, Discord: drakeerv#7275
 ![drakeerv;s Visitor Count](https://komarev.com/ghpvc/?username=drakeerv)
 ## Statistics:
 <div align="center">
-  <img width="49%" height="500px" align="center" style="float:center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakeerv&show_icons=true&theme=onedark&layout=compact">
-  <img width="49%" height="500px" align="center" style="float:center" src="https://github-readme-stats.vercel.app/api?username=drakeerv&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats">
+  <img width="49%" height="400px" align="center" style="float:center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakeerv&show_icons=true&theme=onedark&layout=compact">
+  <img width="49%" height="400px" align="center" style="float:center" src="https://github-readme-stats.vercel.app/api?username=drakeerv&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
