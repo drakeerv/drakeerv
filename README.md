@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&animation=twinkling"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=drakeerv&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 ### About Me:
 I mainly write in python but I also do JS, C#, RobotC, and Java decently. I have also touched Rust, TCL/TK, PHP, and etc. The projects I mainly work on now is Projects based on Obiwac Minecraft Clone, Minecraft Server Finder, and MyQ Garage Opener (for Garmin).
@@ -9,3 +9,5 @@ Email: drakeerv@outlook.com, Discord: drakeerv#7275
 ## Statistics:
 [![drakeerv's GitHub stats](https://github-readme-stats.vercel.app/api?username=drakeerv&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![drakeerv's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drakeerv&show_icons=true&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
