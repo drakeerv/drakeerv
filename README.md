@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=drakeerv&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=drakeerv&fontSize=30&fontColor=fff&fontAlignY=35"/>
 
 ### About Me:
 I mainly write in python but I also do JS, C#, RobotC, and Java decently. I have also touched Rust, TCL/TK, PHP, and etc. The projects I mainly work on now is Projects based on Obiwac Minecraft Clone, Minecraft Server Finder, and MyQ Garage Opener (for Garmin).
