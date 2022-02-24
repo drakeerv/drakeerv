@@ -6,12 +6,12 @@ I mainly write in python but I also do JS, C#, RobotC, and Java decently. I have
 Email: drakeerv@outlook.com, Discord: drakeerv#7275
 ### Profile:
 <div>
-  <img src="https://komarev.com/ghpvc/?username=drakeerv">
+  <img src="https://komarev.com/ghpvc/?username=drakeerv" />
 </div>
 ## Statistics:
 <div align="center">
-  <img height="190px" align="center" style="float:center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakeerv&show_icons=true&theme=onedark&layout=compact">
-  <img height="190px" align="center" style="float:center" src="https://github-readme-stats.vercel.app/api?username=drakeerv&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats">
+  <img height="190px" align="center" style="float:center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakeerv&show_icons=true&theme=onedark&layout=compact" />
+  <img height="190px" align="center" style="float:center" src="https://github-readme-stats.vercel.app/api?username=drakeerv&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
