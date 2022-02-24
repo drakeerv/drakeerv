@@ -6,7 +6,7 @@ I mainly write in python but I also do JS, C#, RobotC, and Java decently. I have
 Email: drakeerv@outlook.com, Discord: drakeerv#7275
 ### Profile:
 <div>
-  ![drakeerv's Visitor Count](https://komarev.com/ghpvc/?username=drakeerv)
+  <img src="https://komarev.com/ghpvc/?username=drakeerv">
 </div>
 ## Statistics:
 <div align="center">
