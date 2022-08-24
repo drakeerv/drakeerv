@@ -2,7 +2,7 @@
 
 <h1>About Me:</h1>
 <div>
-  <p>I mainly write in python but I also do JS, C#, RobotC, and Java decently. I have also touched Rust, TCL/TK, PHP, and etc. The projects I mainly work on now is Projects based on Obiwac Minecraft Clone, Minecraft Server Finder, and MyQ Garage Opener (for Garmin).</p>
+  <p>I mainly write in python but I also do JS, C#, RobotC, and Java decently. I have also touched Rust, TCL/TK, PHP, and etc. The projects I mainly work on now is Projects based on Obiwac Minecraft Clone, and MyQ Garage Opener (for Garmin).</p>
 </div>
 <h1>Contact:</h1>
 <div>
