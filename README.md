@@ -1,9 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=drakeerv&fontSize=30&fontColor=fff&fontAlignY=35"/>
 
 <h1>About Me:</h1>
-<a href="https://drakeerv.com/">My Website</a>
 <div>
-  <p>I mainly write in python but I also do JS, C#, RobotC, and Java decently. I have also touched Rust, TCL/TK, PHP, and etc. The projects I mainly work on now is Projects (insert here).</p>
+  <p>I mainly write in python but I also do JS, C#, RobotC, and Java decently. I have also touched Rust, TCL/TK, PHP, and etc. The projects I mainly work on now is Projects (insert here). Check out <a href="https://drakeerv.com/">My Website</a>.</p>
 </div>
 <h1>Contact:</h1>
 <div>
