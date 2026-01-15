@@ -12,10 +12,7 @@ Check out **[My Website](https://drakeerv.com/)** for more projects and informat
 💬 Discord: **@drakeerv**  
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakeerv&show_icons=true&theme=onedark&layout=compact" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=drakeerv&show_icons=true&theme=onedark&include_all_commits=true" />
-</div>
+### ~~Temporarily~~ removed
 
 ## 👀 Profile Views
 <p align="center">
