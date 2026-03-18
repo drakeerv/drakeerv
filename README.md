@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 I'm a passionate programmer who primarily writes in **Rust** and **Python**, but I also have experience with:
-- **Proficient**: JavaScript, C#, RobotC, V, Java
-- **Familiar**: Kotlin, Dart, C, TCL/TK, PHP, and more.
+- **Proficient**: JavaScript, Python, RobotC, V, Java
+- **Familiar**: Kotlin, C, Flamingo, and more.
 
 Check out **[My Website](https://drakeerv.com/)** for more projects and information!
 
