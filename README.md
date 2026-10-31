@@ -5,7 +5,7 @@ I'm a passionate programmer who primarily writes in **Rust** and **Python**, but
 - **Proficient**: JavaScript, Python, RobotC, V, Java
 - **Familiar**: Kotlin, C, Flamingo, and more.
 
-Check out **[My Website](https://drakeerv.com/)** for more projects and information!
+Check out **[My Website](https://jellyfin.ew-3.com/)** for more projects and information!
 
 ## 📬 Contact
 📧 Email: **drakeerv@outlook.com**  
